@@ -18,15 +18,16 @@ Save hours of repetitive work on every job: plate-ready PDFs, printer marks, ups
 
 ## PDF Cutter
 
-<img src="docs/screenshots/pdf-cutter.png" width="520" alt="PDF Cutter">
+<img src="docs/screenshots/pdf-cutter.png" width="430" alt="PDF Cutter"> <img src="docs/screenshots/pdf-cutter-start.png" width="330" alt="PDF Cutter asks what to do">
 
-Drop PDF files or a whole folder and PDF Cutter does the rest:
+Drop PDF files or a whole folder. PDF Cutter asks what to do: **cut the page**, **overprint 100% black**, **merge spot colours**, or any mix of them, and warns about RGB images before it starts:
 
-- Cuts the page to plate size (for example 1030 × 790 → 1030 × 770 mm): bottom-left stays fixed, nothing is stretched.
+- Cuts the page to plate size (for example 1030 × 790 → 1030 × 770 mm): bottom-left stays fixed, nothing is stretched. Or keeps the page size and only does the overprint / spot merge.
 - Merges spot colours (such as "Spl 01") into the Black or a CMYK plate, and sets 100% black to overprint.
 - **Every file is verified** before it is saved: an object-by-object integrity check and a visual comparison. If anything looks wrong, nothing is written. Your original file is never changed.
-- Preflight report: fonts, image resolution, thin lines, total ink, spot colours and artwork in the cut-away area.
-- Images are never touched: they stay exactly as they are in your file (find RGB images in Illustrator with **Image Check**).
+- **RGB image warning:** every image is checked. Real grayscale images are never reported; a picture that looks gray but is saved as RGB is pointed out separately, because it would print with all four inks.
+- Preflight report: fonts, image resolution, RGB images, thin lines, total ink, spot colours and artwork in the cut-away area.
+- Images are never changed: they stay exactly as they are in your file.
 - Before / after preview, history, presets with automatic detection, batch processing in the background.
 
 ## Print Marks
