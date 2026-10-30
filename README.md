@@ -66,7 +66,7 @@ Its own panel, **included with Print Marks** (the same licence key opens both). 
 Select a logo or text in Illustrator and click **Create Emboss Block**.
 
 - **Negative block:** a solid black box with your logos in white, each with a fine 0.5 pt outline, ready for the emboss block maker.
-- **Mirrored positive:** the same grid mirrored, in solid black.
+- **Mirrored positive:** the same grid mirrored, in solid black, to the **right** of the black box or **below** it, with the gap you choose.
 - Choose the grid (default 5 × 4 = 20 logos), the gap between logos, the box margin and the outline weight.
 - Text is outlined automatically, overlapping shapes are joined, and a new artboard is created to fit.
 - The panel shows the final block and sheet size before you create it.
