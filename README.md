@@ -6,7 +6,7 @@ Save hours of repetitive work on every job: plate-ready PDFs, printer marks, ups
 
 | Product | Type | What it does |
 |---|---|---|
-| **PDF Cutter** | Windows app | Cuts print-ready PDFs to plate size, merges spot colours, sets black overprint, checks every file |
+| **PlateFix** | Windows app | Cuts print-ready PDFs to plate size, merges spot colours, sets black overprint, checks every file |
 | **Print Marks** | Adobe Illustrator plugin | Crop marks, side lay, gray scale, job slug and ink boxes on the press sheet |
 | **Ups Number** | Adobe Illustrator plugin, included with Print Marks | Numbers every up on the sheet from one 01, with the shift / year mark |
 | **Emboss Block Maker** | Adobe Illustrator plugin | Builds a complete emboss block sheet from any logo or text in one click |
@@ -16,11 +16,11 @@ Save hours of repetitive work on every job: plate-ready PDFs, printer marks, ups
 
 ---
 
-## PDF Cutter
+## PlateFix
 
-<img src="docs/screenshots/pdf-cutter.png" width="430" alt="PDF Cutter"> <img src="docs/screenshots/pdf-cutter-start.png" width="330" alt="PDF Cutter asks what to do">
+<img src="docs/screenshots/platefix.png" width="430" alt="PlateFix"> <img src="docs/screenshots/platefix-start.png" width="330" alt="PlateFix asks what to do">
 
-Drop PDF files or a whole folder. PDF Cutter asks what to do: **cut the page**, **overprint 100% black**, and for **every spot colour found in the files** which plate it goes into (Black, Cyan, Magenta, Yellow), keep it, or **delete** it. It also warns about RGB images before it starts:
+Drop PDF files or a whole folder. PlateFix asks what to do: **cut the page**, **overprint 100% black**, and for **every spot colour found in the files** which plate it goes into (Black, Cyan, Magenta, Yellow), keep it, or **delete** it. It also warns about RGB images before it starts:
 
 - Cuts the page to plate size (for example 1030 × 790 → 1030 × 770 mm): bottom-left stays fixed, nothing is stretched. Or keeps the page size and only does the overprint / spot merge.
 - Merges spot colours (such as "Spl 01") into the plate you choose for each one, or deletes a spot colour you do not want (it disappears completely and leaves the artwork under it as it is). Sets 100% black to overprint. Your last choice for each spot is remembered.
@@ -94,7 +94,7 @@ Open the panel and every image in the file is checked at once, before the file g
 
 | | Monthly | Yearly | Lifetime |
 |---|---:|---:|---:|
-| **PDF Cutter** | PKR 2,500 | PKR 20,000 | PKR 40,000 |
+| **PlateFix** | PKR 2,500 | PKR 20,000 | PKR 40,000 |
 | **Print Marks** (with Ups Number) | PKR 3,000 | PKR 25,000 | PKR 50,000 |
 | **Emboss Block Maker** | PKR 1,500 | PKR 12,000 | PKR 25,000 |
 | **Image Check** | PKR 1,000 | PKR 8,000 | PKR 15,000 |
@@ -104,7 +104,7 @@ Open the panel and every image in the file is checked at once, before the file g
 - **Full Package** saves about 30% compared with buying the products one by one.
 - **Second computer** in the same company: half price.
 - **Site licence** (every computer in your company): 3 × the yearly price.
-- **Outside Pakistan:** PDF Cutter $15 / month or $129 / year · Print Marks $19 / $159 · Emboss Block Maker $9 / $79 · Image Check $6 / $49 · **Full Package $35 / month or $299 / year**.
+- **Outside Pakistan:** PlateFix $15 / month or $129 / year · Print Marks $19 / $159 · Emboss Block Maker $9 / $79 · Image Check $6 / $49 · **Full Package $35 / month or $299 / year**.
 
 ## Free 7-day trial
 
@@ -132,12 +132,12 @@ When you buy, you receive a new key for the same computer, so nothing needs to b
 
 **Requirements:** Windows 10 or 11 (64-bit). Illustrator plugins: Adobe Illustrator 2021 or newer (tested with Illustrator 2025).
 
-1. Close Adobe Illustrator and PDF Cutter.
+1. Close Adobe Illustrator and PlateFix.
 2. Run **`FamDeStudioTools_Setup_<version>.exe`**.
 3. Tick the products you want: one, some or all of them.
 4. Open them:
    - Illustrator plugins: **Window > Extensions (Legacy) > Print Marks / Ups Number / Emboss Block Maker / Image Check**
-   - PDF Cutter: **Start menu > Fam de Studio > PDF Cutter**
+   - PlateFix: **Start menu > Fam de Studio > PlateFix**
 
 Updates install over the old version; licences, presets and settings are kept. To remove: **Windows Settings > Apps > Fam de Studio Tools > Uninstall**.
 
