@@ -139,7 +139,7 @@ When you buy, you receive a new key for the same computer, so nothing needs to b
    - Illustrator plugins: **Window > Extensions (Legacy) > Print Marks / Ups Number / Emboss Block Maker / Image Check**
    - PlateFix: **Start menu > Fam de Studio > PlateFix**
 
-Updates install over the old version; licences, presets and settings are kept. To remove: **Windows Settings > Apps > Fam de Studio Tools > Uninstall**.
+**Updates:** when a new version is out, the tools show a short notice with a **Download** link. Updates install over the old version; licences, presets and settings are kept. To remove: **Windows Settings > Apps > Fam de Studio Tools > Uninstall**.
 
 ---
 
