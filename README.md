@@ -2,17 +2,18 @@
 
 **Professional prepress tools for printing and packaging, by Fam de Studio.**
 
-Save hours of repetitive work on every job: plate-ready PDFs, printer marks, ups numbering, emboss blocks and image checks, done in seconds and done the same way every time.
+Save hours of repetitive work on every job: plate-ready PDFs, printer marks, ups numbering, emboss blocks, image checks and client approval proofs, done in seconds and done the same way every time.
 
-| Product | Type | What it does |
-|---|---|---|
-| **PlateFix** | Windows app | Cuts print-ready PDFs to plate size, merges spot colours, sets black overprint, checks every file |
-| **Print Marks** | Adobe Illustrator plugin | Crop marks, side lay, gray scale, job slug and ink boxes on the press sheet |
-| **Ups Number** | Adobe Illustrator plugin, included with Print Marks | Numbers every up on the sheet from one 01, with the shift / year mark |
-| **Emboss Block Maker** | Adobe Illustrator plugin | Builds a complete emboss block sheet from any logo or text in one click |
-| **Image Check** | Adobe Illustrator plugin | Finds every RGB image, low resolution image and missing link in the file, linked or embedded |
+| Product | Type | Licence | What it does |
+|---|---|---|---|
+| **PlateFix** | Windows app | PlateFix | Cuts print-ready PDFs to plate size, merges spot colours, sets black overprint, checks every file |
+| **Print Marks** | Adobe Illustrator plugin | Plugins | Crop marks, side lay, gray scale, job slug and ink boxes on the press sheet |
+| **Ups Number** | Adobe Illustrator plugin | Plugins | Numbers every up on the sheet from one 01, with the shift / year mark |
+| **Emboss Block Maker** | Adobe Illustrator plugin | Plugins | Builds a complete emboss block sheet from any logo or text in one click |
+| **Image Check** | Adobe Illustrator plugin | Plugins | Finds every RGB image, low resolution image and missing link in the file, linked or embedded |
+| **Approval Proof** | Adobe Illustrator plugin | Plugins | Ready-to-send client proofs (JPEG / PDF) with the die line sizes measured for you |
 
-**Try any product free for 7 days.** One installer, pick only what you need.
+**One Plugins licence opens every Illustrator plugin. PlateFix has its own licence.** Try either one free for 7 days. One installer, pick only what you need.
 
 ---
 
@@ -48,7 +49,7 @@ Select the dieline and click **Add Marks**. Everything a press sheet needs, in y
 
 <img src="docs/screenshots/ups-number.png" width="260" align="right" alt="Ups Number panel">
 
-Its own panel, **included with Print Marks** (the same licence key opens both). Type **01** in one up, select it and click **Number the Ups**:
+Its own panel, opened by the same **Plugins** licence as Print Marks. Type **01** in one up, select it and click **Number the Ups**:
 
 - Every up on the sheet gets its number: 01, 02, 03 ... in the order you choose (6 directions along rows or columns).
 - Works on joined ups too, including turned and mirrored ups; numbers are turned with their up.
@@ -88,32 +89,63 @@ Open the panel and every image in the file is checked at once, before the file g
 
 <br clear="right">
 
+## Approval Proof
+
+<img src="docs/screenshots/approval-proof.png" width="260" align="right" alt="Approval Proof panel">
+
+Fill in the job details once and click **Make Proof**. Three kinds of proof, ready to send to the client on WhatsApp or email:
+
+- **Simple:** the die line sizes and one slim line of job details (job, client, size, material, finish, quantity, proof number, date, your company) drawn **on your own artboard**, around your design. No new page, no copy of the artwork, and the artboard size is not changed.
+- **Size only:** the same, with only the die line sizes, nothing else.
+- **Full:** a complete A4 / A3 approval sheet on its own page: the design, job details, the colours used and a client approval box (Approved / Approved with changes / Not approved, name, signature, date).
+
+Every proof:
+
+- **Measures the die line for you:** the flat width and height, and every panel size between the crease lines. The die line is found by its colour, whatever it is called. The measurements keep at least 5 mm away from the die line, in one **font size** you choose.
+- **Save JPEG** for WhatsApp in one click (or a small PDF, or a high quality PDF), next to your .ai file. The size lines are included even when they sit outside your artboard.
+- **Remove Proof** takes the proof away again before the file goes to print. Your artwork is never touched.
+- Keeps the job details for the next proof and can add your logo and a **FOR APPROVAL ONLY** watermark.
+
+<br clear="right">
+
+<img src="docs/screenshots/approval-proof-sheet.png" width="520" alt="A sample Simple proof on the job's own artboard">
+
 ---
 
 ## Plans and pricing
 
-| | Monthly | Yearly | Lifetime |
-|---|---:|---:|---:|
-| **PlateFix** | PKR 2,500 | PKR 20,000 | PKR 40,000 |
-| **Print Marks** (with Ups Number) | PKR 3,000 | PKR 25,000 | PKR 50,000 |
-| **Emboss Block Maker** | PKR 1,500 | PKR 12,000 | PKR 25,000 |
-| **Image Check** | PKR 1,000 | PKR 8,000 | PKR 15,000 |
-| **Full Package (all four)** | **PKR 5,500** | **PKR 45,000** | **PKR 90,000** |
+Two licences: **Plugins** opens *every* Adobe Illustrator plugin (Print Marks, Ups Number, Emboss Block Maker, Image Check, Approval Proof, and every plugin added later), and **PlateFix** is its own licence. The **Full Package** is both together, for less.
 
-- **Yearly plans** cost about 3 months less than paying monthly.
-- **Full Package** saves about 30% compared with buying the products one by one.
+**Pakistan (PKR)**
+
+| Licence | Includes | Monthly | Yearly | Lifetime |
+|---|---|---:|---:|---:|
+| **Plugins** | Print Marks, Ups Number, Emboss Block Maker, Image Check, Approval Proof and new plugins | PKR 4,000 | PKR 32,000 | PKR 64,000 |
+| **PlateFix** | The PlateFix Windows app | PKR 2,500 | PKR 20,000 | PKR 40,000 |
+| **Full Package** | Plugins + PlateFix | **PKR 6,000** | **PKR 48,000** | **PKR 96,000** |
+
+**Outside Pakistan (USD)**
+
+| Licence | Includes | Monthly | Yearly | Lifetime |
+|---|---|---:|---:|---:|
+| **Plugins** | Print Marks, Ups Number, Emboss Block Maker, Image Check, Approval Proof and new plugins | $25 | $200 | $400 |
+| **PlateFix** | The PlateFix Windows app | $15 | $120 | $240 |
+| **Full Package** | Plugins + PlateFix | **$37** | **$296** | **$592** |
+
+- **Yearly** costs the same as 8 months: you get **4 months free**.
+- **Lifetime** costs 2 yearly payments: pay once, no renewal.
+- **Full Package** is about **8% cheaper** than buying Plugins and PlateFix separately, on every plan (monthly, yearly and lifetime).
 - **Second computer** in the same company: half price.
 - **Site licence** (every computer in your company): 3 × the yearly price.
-- **Outside Pakistan:** PlateFix $15 / month or $129 / year · Print Marks $19 / $159 · Emboss Block Maker $9 / $79 · Image Check $6 / $49 · **Full Package $35 / month or $299 / year**.
 
 ## Free 7-day trial
 
-Every product can be tried **free for 7 days with all features**, without payment:
+The Plugins licence and PlateFix can each be tried **free for 7 days with all features**, without payment:
 
-1. Install the products you want to try (see below).
-2. Open the product. It shows your computer's **Machine ID** (for example `7K2M-QX9D-4HTP-0ZRB`).
-3. Send the Machine ID to Fam de Studio and ask for a trial.
-4. Paste the trial key you receive and click **Activate**.
+1. Install what you want to try (see below).
+2. Open a plugin (or PlateFix). It shows your computer's **Machine ID** (for example `7K2M-QX9D-4HTP-0ZRB`); tap **Copy** and send it to Fam de Studio.
+3. Ask for a trial.
+4. Paste the trial key you receive and click **Activate**. One Plugins key opens every Illustrator plugin.
 
 When you buy, you receive a new key for the same computer, so nothing needs to be reinstalled. Your settings and presets stay.
 
@@ -121,7 +153,7 @@ When you buy, you receive a new key for the same computer, so nothing needs to b
 
 <img src="docs/screenshots/activation.png" width="260" align="right" alt="Activation screen">
 
-- Each product has its own licence key, made for **your computer**.
+- **One Plugins key opens every Illustrator plugin**; PlateFix has its own key. Each key is made for **your computer**.
 - Activation works **offline**: no account, no internet connection needed.
 - A reminder appears 5 days before a monthly or yearly licence ends; renewing only means pasting a new key.
 - Moving to a new computer: send the new Machine ID and you get a key for it.
@@ -136,7 +168,7 @@ When you buy, you receive a new key for the same computer, so nothing needs to b
 2. Run **`FamDeStudioTools_Setup_<version>.exe`**.
 3. Tick the products you want: one, some or all of them.
 4. Open them:
-   - Illustrator plugins: **Window > Extensions (Legacy) > Print Marks / Ups Number / Emboss Block Maker / Image Check**
+   - Illustrator plugins: **Window > Extensions (Legacy) > Print Marks / Ups Number / Emboss Block Maker / Image Check / Approval Proof**
    - PlateFix: **Start menu > Fam de Studio > PlateFix**
 
 **Updates:** when a new version is out, the tools show a short notice with a **Download** link. Updates install over the old version; licences, presets and settings are kept. To remove: **Windows Settings > Apps > Fam de Studio Tools > Uninstall**.
